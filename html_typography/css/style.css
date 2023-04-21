@@ -1,0 +1,52 @@
+table,th,td{
+    border: 3px solid black;
+}
+
+table,th,td{
+    border: 3px solid black;
+}
+
+
+.u21{
+    background-color: grey;
+}
+.o21{
+    background-color: black ;
+    color:white;
+}
+.e21{
+     background-color: red;
+}
+.p21{
+    background-color: pink;
+    color: black;
+}
+.females{
+    list-style:none;
+    padding: 10px 30px;
+    background-image: url("../css/female.symbol..webp");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
+.males{
+    list-style:none;
+    padding: 10px 30px;
+    background-image: url("../css/male\ symbol.avif");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
+h1 {
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+th{
+    height: 50px;
+}
+.table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+}
